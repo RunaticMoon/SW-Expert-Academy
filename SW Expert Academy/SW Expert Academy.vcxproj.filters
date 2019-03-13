@@ -13,5 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\D1">
+      <UniqueIdentifier>{9987e01b-9b3d-4dc2-a145-498bd87bcee9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2072 홀수만 더하기.cpp">
+      <Filter>소스 파일\D1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
