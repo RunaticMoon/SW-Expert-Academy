@@ -30,5 +30,8 @@
     <ClCompile Include="2068 최대수 구하기.cpp">
       <Filter>소스 파일\D1</Filter>
     </ClCompile>
+    <ClCompile Include="2063 중간값 찾기.cpp">
+      <Filter>소스 파일\D1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
