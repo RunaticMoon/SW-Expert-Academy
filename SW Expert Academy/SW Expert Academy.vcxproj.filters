@@ -36,5 +36,16 @@
     <ClCompile Include="2058 자리수 더하기.cpp">
       <Filter>소스 파일\D1</Filter>
     </ClCompile>
+    <ClCompile Include="2056 연월일 달력.cpp">
+      <Filter>소스 파일\D1</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
+    <Text Include="output.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
   </ItemGroup>
 </Project>
