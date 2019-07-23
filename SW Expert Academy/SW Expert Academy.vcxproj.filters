@@ -39,6 +39,9 @@
     <ClCompile Include="2056 연월일 달력.cpp">
       <Filter>소스 파일\D1</Filter>
     </ClCompile>
+    <ClCompile Include="2050 알파벳을 숫자로 변환.cpp">
+      <Filter>소스 파일\D1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
