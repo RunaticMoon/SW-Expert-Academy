@@ -21,5 +21,8 @@
     <ClCompile Include="2072 홀수만 더하기.cpp">
       <Filter>소스 파일\D1</Filter>
     </ClCompile>
+    <ClCompile Include="2071 평균값 구하기.cpp">
+      <Filter>소스 파일\D1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
