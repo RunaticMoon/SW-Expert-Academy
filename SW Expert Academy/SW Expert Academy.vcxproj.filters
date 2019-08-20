@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\D1">
       <UniqueIdentifier>{9987e01b-9b3d-4dc2-a145-498bd87bcee9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\D3">
+      <UniqueIdentifier>{9fc309b9-d6f9-4540-9d37-e3e5a791b208}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2072 홀수만 더하기.cpp">
@@ -44,6 +47,9 @@
     </ClCompile>
     <ClCompile Include="2047 신문 헤드라인.cpp">
       <Filter>소스 파일\D1</Filter>
+    </ClCompile>
+    <ClCompile Include="8338 계산기.cpp">
+      <Filter>소스 파일\D3</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
