@@ -51,6 +51,9 @@
     <ClCompile Include="8338 계산기.cpp">
       <Filter>소스 파일\D3</Filter>
     </ClCompile>
+    <ClCompile Include="8104 조 만들기.cpp">
+      <Filter>소스 파일\D3</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
